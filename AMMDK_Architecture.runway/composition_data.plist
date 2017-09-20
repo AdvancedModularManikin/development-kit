@@ -1778,8 +1778,8 @@
 							YXR1cmFsXHFjXHBhcnRp
 							Z2h0ZW5mYWN0b3IwCgpc
 							ZjBcZnMzNiBcY2YyIFNp
-							Z25hbCBOb3JtYWxpemF0
-							aW9ufQ==
+							Z25hbCBDb25kaXRpb25p
+							bmd9
 							</data>
 							<key>className</key>
 							<string>RoundRectangle</string>
@@ -6123,6 +6123,8 @@
 				<real>700</real>
 				<key>name</key>
 				<string>Custom</string>
+				<key>resolution</key>
+				<real>72</real>
 				<key>unitType</key>
 				<integer>0</integer>
 				<key>width</key>
@@ -6139,7 +6141,7 @@
 			<key>scaleImage</key>
 			<true/>
 			<key>scrollCenterPoint</key>
-			<string>{480, 349.5}</string>
+			<string>{479.5, 349.5}</string>
 			<key>stroke1Color</key>
 			<string></string>
 			<key>stroke1Enabled</key>

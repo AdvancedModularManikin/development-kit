@@ -1,0 +1,1185 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 960 700"
+    version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g transform="scale(1, 1)">
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M623.11 470.00
+                    C604.82 470.00 590.00 455.18 590.00 436.89
+                    L590.00 73.11
+                    C590.00 54.82 604.82 40.00 623.11 40.00
+                    L846.89 40.00
+                    C865.18 40.00 880.00 54.82 880.00 73.11
+                    L880.00 436.89
+                    C880.00 455.18 865.18 470.00 846.89 470.00
+                    Z
+                    "
+                fill="rgb(0, 128, 128)"
+                />
+            
+            
+            <text x="694.16" y="422.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Custom
+                </tspan>
+            </text>
+            <text x="641.44" y="451.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Application Board</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M628.71 390.00
+                    C612.85 390.00 600.00 377.15 600.00 361.29
+                    L600.00 78.71
+                    C600.00 62.85 612.85 50.00 628.71 50.00
+                    L841.29 50.00
+                    C857.15 50.00 870.00 62.85 870.00 78.71
+                    L870.00 361.29
+                    C870.00 377.15 857.15 390.00 841.29 390.00
+                    Z
+                    "
+                fill="rgb(102, 204, 255)"
+                />
+            
+            
+            <text x="632.15" y="228.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">AMM Carrier Board</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M840.00 200.00
+                    L920.00 200.00
+                    L920.00 252.00
+                    C920.00 252.00 910.00 245.00 900.00 245.00
+                    C890.00 245.00 880.00 252.00 880.00 252.00
+                    C880.00 252.00 870.00 260.00 860.00 260.00
+                    C850.00 260.00 840.00 252.00 840.00 252.00
+                    Z
+                    "
+                transform="
+                    rotate(270 880.00 230.00)
+                    "
+                fill="rgb(102, 204, 255)"
+                />
+            
+            
+            <text x="861.49" y="229.00"
+            transform="rotate(270 880.00 230.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">USB</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M830.00 100.00
+                    L930.00 100.00
+                    L930.00 152.00
+                    C930.00 152.00 918.00 145.00 905.00 145.00
+                    C893.00 145.00 880.00 152.00 880.00 152.00
+                    C880.00 152.00 868.00 160.00 855.00 160.00
+                    C843.00 160.00 830.00 152.00 830.00 152.00
+                    Z
+                    "
+                transform="
+                    rotate(270 880.00 130.00)
+                    "
+                fill="rgb(102, 204, 255)"
+                />
+            
+            
+            <text x="845.98" y="129.00"
+            transform="rotate(270 880.00 130.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Ethernet</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M840.00 290.00
+                    L920.00 290.00
+                    L920.00 342.00
+                    C920.00 342.00 910.00 335.00 900.00 335.00
+                    C890.00 335.00 880.00 342.00 880.00 342.00
+                    C880.00 342.00 870.00 350.00 860.00 350.00
+                    C850.00 350.00 840.00 342.00 840.00 342.00
+                    Z
+                    "
+                transform="
+                    rotate(270 880.00 320.00)
+                    "
+                fill="rgb(102, 204, 255)"
+                />
+            
+            
+            <text x="856.99" y="319.00"
+            transform="rotate(270 880.00 320.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Serial</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M631.49 180.00
+                    C619.62 180.00 610.00 170.38 610.00 158.51
+                    L610.00 81.49
+                    C610.00 69.62 619.62 60.00 631.49 60.00
+                    L838.51 60.00
+                    C850.38 60.00 860.00 69.62 860.00 81.49
+                    L860.00 158.51
+                    C860.00 170.38 850.38 180.00 838.51 180.00
+                    Z
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="633.46" y="164.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">System On Module</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M635.20 130.00
+                    C626.80 130.00 620.00 123.20 620.00 114.80
+                    L620.00 85.20
+                    C620.00 76.80 626.80 70.00 635.20 70.00
+                    L674.80 70.00
+                    C683.20 70.00 690.00 76.80 690.00 85.20
+                    L690.00 114.80
+                    C690.00 123.20 683.20 130.00 674.80 130.00
+                    Z
+                    "
+                fill="rgb(56, 88, 228)"
+                />
+            
+            
+            <text x="629.43" y="97.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">big.Little
+                </tspan>
+            </text>
+            <text x="640.72" y="114.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">CPU</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M715.20 130.00
+                    C706.80 130.00 700.00 123.20 700.00 114.80
+                    L700.00 85.20
+                    C700.00 76.80 706.80 70.00 715.20 70.00
+                    L754.80 70.00
+                    C763.20 70.00 770.00 76.80 770.00 85.20
+                    L770.00 114.80
+                    C770.00 123.20 763.20 130.00 754.80 130.00
+                    Z
+                    "
+                fill="rgb(56, 88, 228)"
+                />
+            
+            
+            <text x="710.22" y="105.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Memory</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M795.20 130.00
+                    C786.80 130.00 780.00 123.20 780.00 114.80
+                    L780.00 85.20
+                    C780.00 76.80 786.80 70.00 795.20 70.00
+                    L834.80 70.00
+                    C843.20 70.00 850.00 76.80 850.00 85.20
+                    L850.00 114.80
+                    C850.00 123.20 843.20 130.00 834.80 130.00
+                    Z
+                    "
+                fill="rgb(56, 88, 228)"
+                />
+            
+            
+            <text x="790.98" y="105.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Storage</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M641.71 370.00
+                    C629.72 370.00 620.00 360.28 620.00 348.29
+                    L620.00 301.71
+                    C620.00 289.72 629.72 280.00 641.71 280.00
+                    L698.29 280.00
+                    C710.28 280.00 720.00 289.72 720.00 301.71
+                    L720.00 348.29
+                    C720.00 360.28 710.28 370.00 698.29 370.00
+                    Z
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="649.59" y="322.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">"TINY"
+                </tspan>
+            </text>
+            <text x="654.56" y="339.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">MCU</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M771.71 370.00
+                    C759.72 370.00 750.00 360.28 750.00 348.29
+                    L750.00 301.71
+                    C750.00 289.72 759.72 280.00 771.71 280.00
+                    L828.29 280.00
+                    C840.28 280.00 850.00 289.72 850.00 301.71
+                    L850.00 348.29
+                    C850.00 360.28 840.28 370.00 828.29 370.00
+                    Z
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="779.59" y="322.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">"TINY"
+                </tspan>
+            </text>
+            <text x="784.56" y="339.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">MCU</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M616.00 650.00
+                    C601.64 650.00 590.00 638.36 590.00 624.00
+                    L590.00 616.00
+                    C590.00 601.64 601.64 590.00 616.00 590.00
+                    L854.00 590.00
+                    C868.36 590.00 880.00 601.64 880.00 616.00
+                    L880.00 624.00
+                    C880.00 638.36 868.36 650.00 854.00 650.00
+                    Z
+                    "
+                fill="rgb(0, 128, 128)"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+            
+            <text x="638.95" y="626.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Sensors, Actuators, Etc.</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M613.85 550.00
+                    C600.68 550.00 590.00 539.32 590.00 526.15
+                    L590.00 513.85
+                    C590.00 500.68 600.68 490.00 613.85 490.00
+                    L856.15 490.00
+                    C869.32 490.00 880.00 500.68 880.00 513.85
+                    L880.00 526.15
+                    C880.00 539.32 869.32 550.00 856.15 550.00
+                    Z
+                    "
+                fill="rgb(0, 128, 128)"
+                />
+            
+            
+            <text x="657.95" y="527.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Signal Conditioning</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Arc *************** -->
+        
+        <g>
+            <path
+                d="
+                    M650.00 590.00
+                    C675.00 590.00 700.00 570.00 700.00 550.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Arc *************** -->
+        
+        <g>
+            <path
+                d="
+                    M680.00 590.00
+                    C695.00 590.00 710.00 570.00 710.00 550.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Arc *************** -->
+        
+        <g>
+            <path
+                d="
+                    M710.00 590.00
+                    C715.00 590.00 720.00 570.00 720.00 550.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Arc *************** -->
+        
+        <g>
+            <path
+                d="
+                    M760.00 590.00
+                    C755.00 590.00 750.00 570.00 750.00 550.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Arc *************** -->
+        
+        <g>
+            <path
+                d="
+                    M780.00 590.00
+                    C770.00 590.00 760.00 570.00 760.00 550.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Arc *************** -->
+        
+        <g>
+            <path
+                d="
+                    M820.00 590.00
+                    C795.00 590.00 770.00 570.00 770.00 550.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Arc *************** -->
+        
+        <g>
+            <path
+                d="
+                    M740.00 550.00
+                    C740.00 550.00 740.00 570.00 740.00 590.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M730.00 470.00
+                    L730.00 490.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M740.00 470.00
+                    L740.00 490.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M750.00 470.00
+                    L750.00 490.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M760.00 470.00
+                    L760.00 490.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M720.00 470.00
+                    L720.00 490.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M710.00 470.00
+                    L710.00 490.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M700.00 470.00
+                    L700.00 490.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M770.00 470.00
+                    L770.00 490.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Arc *************** -->
+        
+        <g>
+            <path
+                d="
+                    M730.00 550.00
+                    C730.00 550.00 730.00 570.00 730.00 590.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M98.78 290.00
+                    C71.84 290.00 50.00 268.16 50.00 241.22
+                    L50.00 88.78
+                    C50.00 61.84 71.84 40.00 98.78 40.00
+                    L441.22 40.00
+                    C468.16 40.00 490.00 61.84 490.00 88.78
+                    L490.00 241.22
+                    C490.00 268.16 468.16 290.00 441.22 290.00
+                    Z
+                    "
+                fill="rgb(153, 153, 153)"
+                />
+            
+            
+            <text x="180.44" y="79.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Embedded Linux</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M98.24 280.00
+                    C77.12 280.00 60.00 262.88 60.00 241.76
+                    L60.00 138.24
+                    C60.00 117.12 77.12 100.00 98.24 100.00
+                    L441.76 100.00
+                    C462.88 100.00 480.00 117.12 480.00 138.24
+                    L480.00 241.76
+                    C480.00 262.88 462.88 280.00 441.76 280.00
+                    Z
+                    "
+                fill="rgb(0, 128, 255)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M98.84 280.00
+                    C77.39 280.00 60.00 262.61 60.00 241.16
+                    L60.00 228.84
+                    C60.00 207.39 77.39 190.00 98.84 190.00
+                    L441.16 190.00
+                    C462.61 190.00 480.00 207.39 480.00 228.84
+                    L480.00 241.16
+                    C480.00 262.61 462.61 280.00 441.16 280.00
+                    Z
+                    "
+                fill="rgb(102, 204, 255)"
+                />
+            
+            
+            <text x="225.38" y="263.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">AMM Libraries</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="60.00" y="140.00" width="420.00" height="100.00"
+                fill="rgb(0, 128, 255)"
+                />
+            
+            
+            <text x="80.40" y="163.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Configures AMM library for needed data access
+                </tspan>
+            </text>
+            <text x="93.27" y="185.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Transmits and receives data via AMM library
+                </tspan>
+            </text>
+            <text x="149.93" y="207.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Manages any local physiology
+                </tspan>
+            </text>
+            <text x="146.94" y="229.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Manages local simulation state</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M100.14 280.00
+                    C77.97 280.00 60.00 262.03 60.00 239.86
+                    L60.00 140.14
+                    C60.00 117.97 77.97 100.00 100.14 100.00
+                    L439.86 100.00
+                    C462.03 100.00 480.00 117.97 480.00 140.14
+                    L480.00 239.86
+                    C480.00 262.03 462.03 280.00 439.86 280.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="199.12" y="137.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Module Logic</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M97.82 590.00
+                    C71.41 590.00 50.00 568.59 50.00 542.18
+                    L50.00 397.82
+                    C50.00 371.41 71.41 350.00 97.82 350.00
+                    L442.18 350.00
+                    C468.59 350.00 490.00 371.41 490.00 397.82
+                    L490.00 542.18
+                    C490.00 568.59 468.59 590.00 442.18 590.00
+                    Z
+                    "
+                fill="rgb(153, 153, 153)"
+                />
+            
+            
+            <text x="212.91" y="388.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">FreeRTOS</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M98.24 580.00
+                    C77.12 580.00 60.00 562.88 60.00 541.76
+                    L60.00 448.24
+                    C60.00 427.12 77.12 410.00 98.24 410.00
+                    L441.76 410.00
+                    C462.88 410.00 480.00 427.12 480.00 448.24
+                    L480.00 541.76
+                    C480.00 562.88 462.88 580.00 441.76 580.00
+                    Z
+                    "
+                fill="rgb(0, 128, 255)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M98.84 580.00
+                    C77.39 580.00 60.00 562.61 60.00 541.16
+                    L60.00 528.84
+                    C60.00 507.39 77.39 490.00 98.84 490.00
+                    L441.16 490.00
+                    C462.61 490.00 480.00 507.39 480.00 528.84
+                    L480.00 541.16
+                    C480.00 562.61 462.61 580.00 441.16 580.00
+                    Z
+                    "
+                fill="rgb(102, 204, 255)"
+                />
+            
+            
+            <text x="204.24" y="563.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">AMM RTOS Services</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="60.00" y="480.00" width="420.00" height="60.00"
+                fill="rgb(0, 128, 255)"
+                />
+            
+            
+            <text x="120.92" y="505.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Interfaces with sensors and actuators
+                </tspan>
+            </text>
+            <text x="117.43" y="527.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Provides cues, interprets interventions</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M100.14 580.00
+                    C77.97 580.00 60.00 562.03 60.00 539.86
+                    L60.00 450.14
+                    C60.00 427.97 77.97 410.00 100.14 410.00
+                    L439.86 410.00
+                    C462.03 410.00 480.00 427.97 480.00 450.14
+                    L480.00 539.86
+                    C480.00 562.03 462.03 580.00 439.86 580.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="169.79" y="447.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Realtime Control &amp;
+                </tspan>
+            </text>
+            <text x="222.48" y="476.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">I/O Logic</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <defs>
+                <clipPath id="clipPath-827A35AC-4EA6-4858-B585-308D8056DD81">
+                    <path d="
+                        M-10000,-10000 h100000 v100000 h-100000 v-100000
+                        M603.13 99.57
+                        L604.56 91.70
+                        L618.33 94.20
+                        L615.47 109.94
+                        L601.70 107.44
+                        Z
+                        "
+                    clip-rule="evenodd"/>
+                </clipPath>
+            </defs>
+            
+            <path
+                d="
+                    M490.00 170.00
+                    C490.00 170.00 514.44 173.53 530.00 160.00
+                    C545.56 146.47 540.03 125.05 560.00 110.00
+                    C579.97 94.95 610.00 100.00 610.00 100.00
+                    "
+                clip-path="url(#clipPath-827A35AC-4EA6-4858-B585-308D8056DD81)"
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+            
+            <path
+                d="
+                    M603.71 99.68
+                    L605.03 92.38
+                    L610.02 100.82
+                    L602.38 106.97
+                    Z
+                    "
+                fill="rgb(0, 0, 0)"
+                stroke-width="1.00"
+                stroke-linecap="butt"
+                stroke-linejoin="miter"
+                stroke="rgb(0, 0, 0)"
+                />
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M510.00 90.00
+                    L552.00 90.00
+                    L552.00 134.00
+                    L510.00 134.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="511.16" y="107.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:17px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Runs
+                </tspan>
+            </text>
+            <text x="521.55" y="127.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:17px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">on</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <defs>
+                <clipPath id="clipPath-8959C801-A68D-4062-B1EA-1CF20B42EBDF">
+                    <path d="
+                        M-10000,-10000 h100000 v100000 h-100000 v-100000
+                        M613.00 331.09
+                        L612.91 323.09
+                        L626.91 322.93
+                        L627.09 338.93
+                        L613.09 339.09
+                        Z
+                        "
+                    clip-rule="evenodd"/>
+                </clipPath>
+            </defs>
+            
+            <path
+                d="
+                    M490.00 458.00
+                    C490.00 458.00 518.16 451.35 530.00 430.00
+                    C541.84 408.65 533.60 368.87 550.00 350.00
+                    C566.40 331.13 620.00 330.00 620.00 330.00
+                    "
+                clip-path="url(#clipPath-8959C801-A68D-4062-B1EA-1CF20B42EBDF)"
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+            
+            <path
+                d="
+                    M613.59 331.09
+                    L613.50 323.67
+                    L620.00 331.01
+                    L613.67 338.50
+                    Z
+                    "
+                fill="rgb(0, 0, 0)"
+                stroke-width="1.00"
+                stroke-linecap="butt"
+                stroke-linejoin="miter"
+                stroke="rgb(0, 0, 0)"
+                />
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M540.00 390.00
+                    L580.00 390.00
+                    L580.00 430.00
+                    L540.00 430.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="540.16" y="405.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:17px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Runs
+                </tspan>
+            </text>
+            <text x="550.55" y="425.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:17px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">on</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <defs>
+                <clipPath id="clipPath-C1C88FDC-66A2-4A0D-ADF8-DFFF6E0FB79A">
+                    <path d="
+                        M-10000,-10000 h100000 v100000 h-100000 v-100000
+                        M743.01 351.41
+                        L742.60 343.42
+                        L756.58 342.70
+                        L757.40 358.68
+                        L743.42 359.40
+                        Z
+                        "
+                    clip-rule="evenodd"/>
+                </clipPath>
+            </defs>
+            
+            <path
+                d="
+                    M490.00 470.00
+                    C490.00 470.00 567.53 460.96 590.00 450.00
+                    C612.47 439.04 706.74 368.61 720.00 360.00
+                    C733.26 351.39 750.00 350.00 750.00 350.00
+                    "
+                clip-path="url(#clipPath-C1C88FDC-66A2-4A0D-ADF8-DFFF6E0FB79A)"
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="2.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+            
+            <path
+                d="
+                    M743.60 351.38
+                    L743.21 343.98
+                    L750.00 351.05
+                    L743.98 358.79
+                    Z
+                    "
+                fill="rgb(0, 0, 0)"
+                stroke-width="1.00"
+                stroke-linecap="butt"
+                stroke-linejoin="miter"
+                stroke="rgb(0, 0, 0)"
+                />
+        </g>
+        
+    </g>
+</svg>
+
