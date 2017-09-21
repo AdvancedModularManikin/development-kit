@@ -1,0 +1,1475 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 760 920"
+    version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g transform="scale(1, 1)">
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <path
+                d="
+                    M230.00 610.00
+                    C230.00 610.00 194.65 611.87 190.00 590.00
+                    C184.97 568.21 183.53 454.15 190.00 430.00
+                    C196.47 405.85 240.00 410.00 240.00 410.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="8.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(179, 179, 179)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <path
+                d="
+                    M235.00 305.00
+                    C235.00 305.00 155.62 295.64 150.00 320.00
+                    C144.38 344.36 143.95 645.74 150.00 670.00
+                    C156.05 694.26 240.00 685.00 240.00 685.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="6.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Big Arrow *************** -->
+        
+        <g>
+            <path
+                d="
+                    M110.00 516.00
+                    L160.00 516.00
+                    L160.00 500.00
+                    L180.00 520.00
+                    L160.00 540.00
+                    L160.00 524.00
+                    L110.00 524.00
+                    Z
+                    "
+                transform="
+                    rotate(90 145.00 520.00)
+                    "
+                fill="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Lightning Bolt copy *************** -->
+        
+        <g>
+            <path
+                d="
+                    M170.00 520.00
+                    L170.00 530.00
+                    L150.00 520.00
+                    L150.00 530.00
+                    L110.00 510.00
+                    L140.00 520.00
+                    L140.00 510.00
+                    L170.00 520.00
+                    Z
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(255, 255, 102)"
+                stroke-width="1.00"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M0.00 510.00
+                    L190.00 510.00
+                    L190.00 540.00
+                    L0.00 540.00
+                    Z
+                    "
+                transform="
+                    rotate(90 95.00 525.00)
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="2.96" y="533.00"
+            transform="rotate(90 95.00 525.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Power to Manikin</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <path
+                d="
+                    M600.00 440.00
+                    C600.00 440.00 602.51 357.85 600.00 340.00
+                    C597.18 322.19 592.29 319.95 580.00 310.00
+                    C567.54 300.27 550.00 300.00 550.00 300.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="6.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Ellipse *************** -->
+        
+        <g>
+            <ellipse cx="600.00" cy="460.00" rx="20.00" ry="20.00"
+                fill="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="580.00" y="460.00" width="40.00" height="20.00"
+                fill="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M590.00 470.00
+                    L590.00 500.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="4.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M610.00 470.00
+                    L610.00 500.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="4.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Big Arrow *************** -->
+        
+        <g>
+            <path
+                d="
+                    M570.00 376.00
+                    L620.00 376.00
+                    L620.00 360.00
+                    L640.00 380.00
+                    L620.00 400.00
+                    L620.00 384.00
+                    L570.00 384.00
+                    Z
+                    "
+                transform="
+                    rotate(270 605.00 380.00)
+                    "
+                fill="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Lightning Bolt copy copy *************** -->
+        
+        <g>
+            <path
+                d="
+                    M630.00 390.00
+                    L630.00 400.00
+                    L610.00 390.00
+                    L610.00 400.00
+                    L570.00 380.00
+                    L600.00 390.00
+                    L600.00 380.00
+                    L630.00 390.00
+                    Z
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(255, 255, 102)"
+                stroke-width="1.00"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <path
+                d="
+                    M690.00 132.00
+                    C690.00 132.00 513.64 128.86 490.00 137.00
+                    C466.36 145.14 470.00 205.00 470.00 205.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="6.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Big Arrow *************** -->
+        
+        <g>
+            <path
+                d="
+                    M550.00 126.00
+                    L600.00 126.00
+                    L600.00 110.00
+                    L620.00 130.00
+                    L600.00 150.00
+                    L600.00 134.00
+                    L550.00 134.00
+                    Z
+                    "
+                transform="
+                    rotate(180 585.00 130.00)
+                    "
+                fill="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Lightning Bolt copy copy *************** -->
+        
+        <g>
+            <path
+                d="
+                    M590.00 100.00
+                    L600.00 100.00
+                    L590.00 120.00
+                    L600.00 120.00
+                    L580.00 160.00
+                    L590.00 130.00
+                    L580.00 130.00
+                    L590.00 100.00
+                    Z
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(255, 255, 102)"
+                stroke-width="1.00"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M500.00 160.00
+                    L650.00 160.00
+                    L650.00 190.00
+                    L500.00 190.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="502.78" y="183.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:23px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Battery Power</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <path
+                d="
+                    M100.00 130.00
+                    C100.00 130.00 246.66 131.04 270.00 140.00
+                    C293.34 148.96 290.00 205.00 290.00 205.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="6.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Big Arrow *************** -->
+        
+        <g>
+            <path
+                d="
+                    M140.00 126.00
+                    L190.00 126.00
+                    L190.00 110.00
+                    L210.00 130.00
+                    L190.00 150.00
+                    L190.00 134.00
+                    L140.00 134.00
+                    Z
+                    "
+                fill="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Lightning Bolt copy copy copy *************** -->
+        
+        <g>
+            <path
+                d="
+                    M170.00 100.00
+                    L180.00 100.00
+                    L170.00 120.00
+                    L180.00 120.00
+                    L160.00 160.00
+                    L170.00 130.00
+                    L160.00 130.00
+                    L170.00 100.00
+                    Z
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(255, 255, 102)"
+                stroke-width="1.00"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M90.00 160.00
+                    L240.00 160.00
+                    L240.00 190.00
+                    L90.00 190.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="92.78" y="183.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:23px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Battery Power</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <path
+                d="
+                    M700.00 800.00
+                    C700.00 800.00 524.03 806.89 500.00 800.00
+                    C475.85 793.53 480.00 740.00 480.00 740.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="8.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(179, 179, 179)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Big Arrow *************** -->
+        
+        <g>
+            <path
+                d="
+                    M560.00 796.00
+                    L610.00 796.00
+                    L610.00 780.00
+                    L630.00 800.00
+                    L610.00 820.00
+                    L610.00 804.00
+                    L560.00 804.00
+                    Z
+                    "
+                fill="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Lightning Bolt copy copy copy *************** -->
+        
+        <g>
+            <path
+                d="
+                    M590.00 770.00
+                    L600.00 770.00
+                    L590.00 790.00
+                    L600.00 790.00
+                    L580.00 830.00
+                    L590.00 800.00
+                    L580.00 800.00
+                    L590.00 770.00
+                    Z
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(255, 255, 102)"
+                stroke-width="1.00"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M515.00 741.00
+                    L684.00 741.00
+                    L684.00 770.00
+                    L515.00 770.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="514.79" y="763.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">PoE to Modules</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <path
+                d="
+                    M70.00 800.00
+                    C70.00 800.00 255.85 806.47 280.00 800.00
+                    C304.15 793.53 300.00 740.00 300.00 740.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="8.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(179, 179, 179)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Big Arrow *************** -->
+        
+        <g>
+            <path
+                d="
+                    M140.00 796.00
+                    L190.00 796.00
+                    L190.00 780.00
+                    L210.00 800.00
+                    L190.00 820.00
+                    L190.00 804.00
+                    L140.00 804.00
+                    Z
+                    "
+                transform="
+                    rotate(180 175.00 800.00)
+                    "
+                fill="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Lightning Bolt copy copy copy copy *************** -->
+        
+        <g>
+            <path
+                d="
+                    M180.00 770.00
+                    L190.00 770.00
+                    L180.00 790.00
+                    L190.00 790.00
+                    L170.00 830.00
+                    L180.00 800.00
+                    L170.00 800.00
+                    L180.00 770.00
+                    Z
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(255, 255, 102)"
+                stroke-width="1.00"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <path
+                d="
+                    M120.00 870.00
+                    C120.00 870.00 308.35 872.50 330.00 860.00
+                    C351.65 847.50 350.00 740.00 350.00 740.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="8.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(179, 179, 179)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Big Arrow *************** -->
+        
+        <g>
+            <path
+                d="
+                    M190.00 866.00
+                    L240.00 866.00
+                    L240.00 850.00
+                    L260.00 870.00
+                    L240.00 890.00
+                    L240.00 874.00
+                    L190.00 874.00
+                    Z
+                    "
+                transform="
+                    rotate(180 225.00 870.00)
+                    "
+                fill="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Lightning Bolt copy copy copy copy copy *************** -->
+        
+        <g>
+            <path
+                d="
+                    M230.00 840.00
+                    L240.00 840.00
+                    L230.00 860.00
+                    L240.00 860.00
+                    L220.00 900.00
+                    L230.00 870.00
+                    L220.00 870.00
+                    L230.00 840.00
+                    Z
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(255, 255, 102)"
+                stroke-width="1.00"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Smart Path *************** -->
+        
+        <g>
+            <path
+                d="
+                    M640.00 870.00
+                    C640.00 870.00 461.43 872.88 440.00 860.00
+                    C418.35 847.50 420.00 740.00 420.00 740.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="8.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(179, 179, 179)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Big Arrow *************** -->
+        
+        <g>
+            <path
+                d="
+                    M500.00 866.00
+                    L550.00 866.00
+                    L550.00 850.00
+                    L570.00 870.00
+                    L550.00 890.00
+                    L550.00 874.00
+                    L500.00 874.00
+                    Z
+                    "
+                fill="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Lightning Bolt copy copy copy copy *************** -->
+        
+        <g>
+            <path
+                d="
+                    M530.00 840.00
+                    L540.00 840.00
+                    L530.00 860.00
+                    L540.00 860.00
+                    L520.00 900.00
+                    L530.00 870.00
+                    L520.00 870.00
+                    L530.00 840.00
+                    Z
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(255, 255, 102)"
+                stroke-width="1.00"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M276.71 490.00
+                    C261.96 490.00 250.00 478.04 250.00 463.29
+                    L250.00 246.71
+                    C250.00 231.96 261.96 220.00 276.71 220.00
+                    L483.29 220.00
+                    C498.04 220.00 510.00 231.96 510.00 246.71
+                    L510.00 463.29
+                    C510.00 478.04 498.04 490.00 483.29 490.00
+                    Z
+                    "
+                fill="rgb(0, 128, 128)"
+                />
+            
+            
+            <text x="313.47" y="248.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Power Controller
+                </tspan>
+            </text>
+            <text x="309.95" y="270.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Application Board</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Tearaway *************** -->
+        
+        <g>
+            <path
+                d="
+                    M200.00 280.00
+                    L270.00 280.00
+                    L270.00 330.00
+                    L235.00 322.00
+                    L235.00 330.00
+                    L200.00 322.00
+                    Z
+                    "
+                transform="
+                    rotate(90 235.00 305.00)
+                    "
+                fill="rgb(0, 128, 128)"
+                />
+            
+            
+            <text x="209.33" y="297.00"
+            transform="rotate(90 235.00 305.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Network </tspan>
+            </text>
+            <text x="215.16" y="314.00"
+            transform="rotate(90 235.00 305.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Power</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Tearaway *************** -->
+        
+        <g>
+            <path
+                d="
+                    M270.00 190.00
+                    L310.00 190.00
+                    L310.00 220.00
+                    L290.00 212.00
+                    L290.00 220.00
+                    L270.00 212.00
+                    Z
+                    "
+                transform="
+                    rotate(180 290.00 205.00)
+                    "
+                fill="rgb(0, 128, 128)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Tearaway *************** -->
+        
+        <g>
+            <path
+                d="
+                    M330.00 190.00
+                    L370.00 190.00
+                    L370.00 220.00
+                    L350.00 212.00
+                    L350.00 220.00
+                    L330.00 212.00
+                    Z
+                    "
+                transform="
+                    rotate(180 350.00 205.00)
+                    "
+                fill="rgb(0, 128, 128)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Tearaway *************** -->
+        
+        <g>
+            <path
+                d="
+                    M390.00 190.00
+                    L430.00 190.00
+                    L430.00 220.00
+                    L410.00 212.00
+                    L410.00 220.00
+                    L390.00 212.00
+                    Z
+                    "
+                transform="
+                    rotate(180 410.00 205.00)
+                    "
+                fill="rgb(0, 128, 128)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Tearaway *************** -->
+        
+        <g>
+            <path
+                d="
+                    M450.00 190.00
+                    L490.00 190.00
+                    L490.00 220.00
+                    L470.00 212.00
+                    L470.00 220.00
+                    L450.00 212.00
+                    Z
+                    "
+                transform="
+                    rotate(180 470.00 205.00)
+                    "
+                fill="rgb(0, 128, 128)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Tearaway *************** -->
+        
+        <g>
+            <path
+                d="
+                    M500.00 280.00
+                    L570.00 280.00
+                    L570.00 330.00
+                    L535.00 322.00
+                    L535.00 330.00
+                    L500.00 322.00
+                    Z
+                    "
+                transform="
+                    rotate(270 535.00 305.00)
+                    "
+                fill="rgb(0, 128, 128)"
+                />
+            
+            
+            <text x="509.32" y="297.00"
+            transform="rotate(270 535.00 305.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">External </tspan>
+            </text>
+            <text x="515.16" y="314.00"
+            transform="rotate(270 535.00 305.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Power</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M285.52 470.00
+                    C271.43 470.00 260.00 458.57 260.00 444.48
+                    L260.00 305.52
+                    C260.00 291.43 271.43 280.00 285.52 280.00
+                    L474.48 280.00
+                    C488.57 280.00 500.00 291.43 500.00 305.52
+                    L500.00 444.48
+                    C500.00 458.57 488.57 470.00 474.48 470.00
+                    Z
+                    "
+                fill="rgb(102, 204, 255)"
+                />
+            
+            
+            <text x="273.00" y="433.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">AMM
+                </tspan>
+            </text>
+            <text x="273.00" y="455.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Carrier Board</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M490.00 400.00
+                    L540.00 400.00
+                    L540.00 434.00
+                    C540.00 434.00 534.00 427.00 528.00 427.00
+                    C521.00 427.00 515.00 434.00 515.00 434.00
+                    C515.00 434.00 509.00 440.00 503.00 440.00
+                    C496.00 440.00 490.00 434.00 490.00 434.00
+                    Z
+                    "
+                transform="
+                    rotate(270 515.00 420.00)
+                    "
+                fill="rgb(102, 204, 255)"
+                />
+            
+            
+            <text x="500.61" y="418.50"
+            transform="rotate(270 515.00 420.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">USB</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M200.00 390.00
+                    L280.00 390.00
+                    L280.00 424.00
+                    C280.00 424.00 270.00 417.00 260.00 417.00
+                    C250.00 417.00 240.00 424.00 240.00 424.00
+                    C240.00 424.00 230.00 430.00 220.00 430.00
+                    C210.00 430.00 200.00 424.00 200.00 424.00
+                    Z
+                    "
+                transform="
+                    rotate(90 240.00 410.00)
+                    "
+                fill="rgb(102, 204, 255)"
+                />
+            
+            
+            <text x="213.54" y="408.50"
+            transform="rotate(90 240.00 410.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Ethernet</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M410.00 460.00
+                    L480.00 460.00
+                    L480.00 503.00
+                    C480.00 503.00 471.00 496.00 463.00 496.00
+                    C454.00 496.00 445.00 503.00 445.00 503.00
+                    C445.00 503.00 436.00 510.00 428.00 510.00
+                    C419.00 510.00 410.00 503.00 410.00 503.00
+                    Z
+                    "
+                fill="rgb(102, 204, 255)"
+                />
+            
+            
+            <text x="427.10" y="483.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Serial</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M425.20 460.00
+                    C416.80 460.00 410.00 453.20 410.00 444.80
+                    L410.00 415.20
+                    C410.00 406.80 416.80 400.00 425.20 400.00
+                    L464.80 400.00
+                    C473.20 400.00 480.00 406.80 480.00 415.20
+                    L480.00 444.80
+                    C480.00 453.20 473.20 460.00 464.80 460.00
+                    Z
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="427.57" y="427.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">"TINY"
+                </tspan>
+            </text>
+            <text x="431.84" y="441.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">MCU</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M288.91 390.00
+                    C278.47 390.00 270.00 381.53 270.00 371.09
+                    L270.00 308.91
+                    C270.00 298.47 278.47 290.00 288.91 290.00
+                    L471.09 290.00
+                    C481.53 290.00 490.00 298.47 490.00 308.91
+                    L490.00 371.09
+                    C490.00 381.53 481.53 390.00 471.09 390.00
+                    Z
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="303.97" y="377.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">System On Module</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M293.02 350.00
+                    C285.83 350.00 280.00 344.17 280.00 336.98
+                    L280.00 313.02
+                    C280.00 305.83 285.83 300.00 293.02 300.00
+                    L326.98 300.00
+                    C334.17 300.00 340.00 305.83 340.00 313.02
+                    L340.00 336.98
+                    C340.00 344.17 334.17 350.00 326.98 350.00
+                    Z
+                    "
+                fill="rgb(56, 88, 228)"
+                />
+            
+            
+            <text x="288.15" y="322.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">big.Little
+                </tspan>
+            </text>
+            <text x="297.83" y="336.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">CPU</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M363.02 350.00
+                    C355.83 350.00 350.00 344.17 350.00 336.98
+                    L350.00 313.02
+                    C350.00 305.83 355.83 300.00 363.02 300.00
+                    L396.98 300.00
+                    C404.17 300.00 410.00 305.83 410.00 313.02
+                    L410.00 336.98
+                    C410.00 344.17 404.17 350.00 396.98 350.00
+                    Z
+                    "
+                fill="rgb(56, 88, 228)"
+                />
+            
+            
+            <text x="358.83" y="329.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Memory</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M433.02 350.00
+                    C425.83 350.00 420.00 344.17 420.00 336.98
+                    L420.00 313.02
+                    C420.00 305.83 425.83 300.00 433.02 300.00
+                    L466.98 300.00
+                    C474.17 300.00 480.00 305.83 480.00 313.02
+                    L480.00 336.98
+                    C480.00 344.17 474.17 350.00 466.98 350.00
+                    Z
+                    "
+                fill="rgb(56, 88, 228)"
+                />
+            
+            
+            <text x="429.49" y="329.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Storage</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rounded Rectangle *************** -->
+        
+        <g>
+            <path
+                d="
+                    M271.45 730.00
+                    C259.60 730.00 250.00 720.40 250.00 708.55
+                    L250.00 581.45
+                    C250.00 569.60 259.60 560.00 271.45 560.00
+                    L498.55 560.00
+                    C510.40 560.00 520.00 569.60 520.00 581.45
+                    L520.00 708.55
+                    C520.00 720.40 510.40 730.00 498.55 730.00
+                    Z
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="285.64" y="591.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Network Controller</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M330.00 720.00
+                    L380.00 720.00
+                    L380.00 754.00
+                    C380.00 754.00 374.00 747.00 368.00 747.00
+                    C361.00 747.00 355.00 754.00 355.00 754.00
+                    C355.00 754.00 349.00 760.00 343.00 760.00
+                    C336.00 760.00 330.00 754.00 330.00 754.00
+                    Z
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="341.77" y="738.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">PoE</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M270.00 720.00
+                    L320.00 720.00
+                    L320.00 754.00
+                    C320.00 754.00 314.00 747.00 308.00 747.00
+                    C301.00 747.00 295.00 754.00 295.00 754.00
+                    C295.00 754.00 289.00 760.00 283.00 760.00
+                    C276.00 760.00 270.00 754.00 270.00 754.00
+                    Z
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="281.77" y="738.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">PoE</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M200.00 590.00
+                    L270.00 590.00
+                    L270.00 624.00
+                    C270.00 624.00 261.00 617.00 253.00 617.00
+                    C244.00 617.00 235.00 624.00 235.00 624.00
+                    C235.00 624.00 226.00 630.00 218.00 630.00
+                    C209.00 630.00 200.00 624.00 200.00 624.00
+                    Z
+                    "
+                transform="
+                    rotate(90 235.00 610.00)
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="208.54" y="608.50"
+            transform="rotate(90 235.00 610.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Ethernet</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M280.00 640.00
+                    L500.00 640.00
+                    L500.00 690.00
+                    L280.00 690.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="348.75" y="653.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">IEEE 802.3bt
+                </tspan>
+            </text>
+            <text x="306.35" y="670.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Power over Ethernet (PoE)
+                </tspan>
+            </text>
+            <text x="284.56" y="687.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Power Sourcing Equipment (PSE) </tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M390.00 720.00
+                    L440.00 720.00
+                    L440.00 754.00
+                    C440.00 754.00 434.00 747.00 428.00 747.00
+                    C421.00 747.00 415.00 754.00 415.00 754.00
+                    C415.00 754.00 409.00 760.00 403.00 760.00
+                    C396.00 760.00 390.00 754.00 390.00 754.00
+                    Z
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="401.77" y="738.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">PoE</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M450.00 720.00
+                    L500.00 720.00
+                    L500.00 754.00
+                    C500.00 754.00 494.00 747.00 488.00 747.00
+                    C481.00 747.00 475.00 754.00 475.00 754.00
+                    C475.00 754.00 469.00 760.00 463.00 760.00
+                    C456.00 760.00 450.00 754.00 450.00 754.00
+                    Z
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="461.77" y="738.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">PoE</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M510.00 600.00
+                    L560.00 600.00
+                    L560.00 634.00
+                    C560.00 634.00 554.00 627.00 548.00 627.00
+                    C541.00 627.00 535.00 634.00 535.00 634.00
+                    C535.00 634.00 529.00 640.00 523.00 640.00
+                    C516.00 640.00 510.00 634.00 510.00 634.00
+                    Z
+                    "
+                transform="
+                    rotate(270 535.00 620.00)
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="521.77" y="618.50"
+            transform="rotate(270 535.00 620.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">PoE</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Swoosh *************** -->
+        
+        <g>
+            <path
+                d="
+                    M510.00 660.00
+                    L560.00 660.00
+                    L560.00 694.00
+                    C560.00 694.00 554.00 687.00 548.00 687.00
+                    C541.00 687.00 535.00 694.00 535.00 694.00
+                    C535.00 694.00 529.00 700.00 523.00 700.00
+                    C516.00 700.00 510.00 694.00 510.00 694.00
+                    Z
+                    "
+                transform="
+                    rotate(270 535.00 680.00)
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="521.77" y="678.50"
+            transform="rotate(270 535.00 680.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">PoE</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Tearaway *************** -->
+        
+        <g>
+            <path
+                d="
+                    M210.00 670.00
+                    L270.00 670.00
+                    L270.00 700.00
+                    L240.00 692.00
+                    L240.00 700.00
+                    L210.00 692.00
+                    Z
+                    "
+                transform="
+                    rotate(90 240.00 685.00)
+                    "
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="220.16" y="687.00"
+            transform="rotate(90 240.00 685.00)"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Power</tspan>
+            </text>
+        </g>
+        
+    </g>
+</svg>
+
