@@ -30,8 +30,8 @@
 					MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2
 					MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1
 					cmFsXHFjXHBhcnRpZ2h0ZW5mYWN0b3IwCgpc
-					ZjBcZnM5MiBcY2YyIENhcnJpZXIgQm9hcmRc
-					CkRhdGEgQ29ubmVjdGl2aXR5fQ==
+					ZjBcZnM5MiBcY2YyIEFNTURLIE1vdGhlcmJv
+					YXJkXApEYXRhIENvbm5lY3Rpdml0eX0=
 					</data>
 					<key>className</key>
 					<string>ResizeText</string>
@@ -58,7 +58,7 @@
 					<key>fillType</key>
 					<integer>0</integer>
 					<key>frame</key>
-					<string>{{160, 20}, {368, 112}}</string>
+					<string>{{121, 21}, {445, 110}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -5421,7 +5421,7 @@
 					<key>fillType</key>
 					<integer>0</integer>
 					<key>frame</key>
-					<string>{{30, 710}, {640, 160}}</string>
+					<string>{{30, 810}, {640, 160}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -5538,7 +5538,7 @@
 					<key>fillType</key>
 					<integer>0</integer>
 					<key>frame</key>
-					<string>{{130, 820}, {80, 40}}</string>
+					<string>{{130, 920}, {80, 40}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -5656,7 +5656,7 @@
 					<key>fillType</key>
 					<integer>0</integer>
 					<key>frame</key>
-					<string>{{240, 820}, {100, 40}}</string>
+					<string>{{240, 920}, {100, 40}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -5773,7 +5773,7 @@
 					<key>fillType</key>
 					<integer>0</integer>
 					<key>frame</key>
-					<string>{{370, 820}, {90, 40}}</string>
+					<string>{{370, 920}, {90, 40}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -5890,7 +5890,7 @@
 					<key>fillType</key>
 					<integer>0</integer>
 					<key>frame</key>
-					<string>{{490, 820}, {80, 40}}</string>
+					<string>{{490, 920}, {80, 40}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -7274,7 +7274,7 @@
 					<key>fillType</key>
 					<integer>0</integer>
 					<key>frame</key>
-					<string>{{50, 730}, {600, 30}}</string>
+					<string>{{50, 830}, {600, 30}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -7382,7 +7382,7 @@
 					<key>flipped</key>
 					<false/>
 					<key>frame</key>
-					<string>{{370, 710}, {0, 20}}</string>
+					<string>{{370, 810}, {0, 20}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -7492,7 +7492,7 @@
 					<key>flipped</key>
 					<false/>
 					<key>frame</key>
-					<string>{{290, 710}, {0, 20}}</string>
+					<string>{{290, 810}, {0, 20}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -7602,7 +7602,7 @@
 					<key>flipped</key>
 					<false/>
 					<key>frame</key>
-					<string>{{220, 710}, {0, 20}}</string>
+					<string>{{220, 810}, {0, 20}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -7712,7 +7712,7 @@
 					<key>flipped</key>
 					<false/>
 					<key>frame</key>
-					<string>{{150, 710}, {0, 20}}</string>
+					<string>{{150, 810}, {0, 20}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -7822,7 +7822,7 @@
 					<key>flipped</key>
 					<false/>
 					<key>frame</key>
-					<string>{{460, 710}, {0, 20}}</string>
+					<string>{{460, 810}, {0, 20}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -7932,7 +7932,7 @@
 					<key>flipped</key>
 					<false/>
 					<key>frame</key>
-					<string>{{550, 710}, {0, 20}}</string>
+					<string>{{550, 810}, {0, 20}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -8386,7 +8386,7 @@
 					<key>flipped</key>
 					<false/>
 					<key>frame</key>
-					<string>{{620, 710}, {0, 20}}</string>
+					<string>{{620, 810}, {0, 20}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -8950,7 +8950,7 @@
 					<key>flipped</key>
 					<false/>
 					<key>frame</key>
-					<string>{{80, 710}, {0, 20}}</string>
+					<string>{{80, 810}, {0, 20}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -9256,17 +9256,17 @@
 			<array>
 				<dict>
 					<key>pointerCorner</key>
-					<integer>0</integer>
+					<integer>8</integer>
 					<key>shapeEdge</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>shapeRatio</key>
 					<real>0.5</real>
 				</dict>
 				<dict>
 					<key>pointerCorner</key>
-					<integer>8</integer>
+					<integer>0</integer>
 					<key>shapeEdge</key>
-					<integer>1</integer>
+					<integer>0</integer>
 					<key>shapeRatio</key>
 					<real>0.5</real>
 				</dict>
@@ -9750,7 +9750,7 @@
 			<key>fillType</key>
 			<integer>0</integer>
 			<key>frame</key>
-			<string>{{0, 0}, {700, 900}}</string>
+			<string>{{0, 0}, {700, 1000}}</string>
 			<key>gridTolerance</key>
 			<real>10</real>
 			<key>hidden</key>
@@ -9772,7 +9772,7 @@
 				<key>group</key>
 				<integer>0</integer>
 				<key>height</key>
-				<real>900</real>
+				<real>1000</real>
 				<key>name</key>
 				<string>Custom</string>
 				<key>resolution</key>
@@ -9793,7 +9793,7 @@
 			<key>scaleImage</key>
 			<true/>
 			<key>scrollCenterPoint</key>
-			<string>{349.5, 450}</string>
+			<string>{350, 500}</string>
 			<key>stroke1Color</key>
 			<string></string>
 			<key>stroke1Enabled</key>
