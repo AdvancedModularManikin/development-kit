@@ -30,8 +30,9 @@
 					MFx0eDM5MjBcdHg0NDgwXHR4NTA0MFx0eDU2
 					MDBcdHg2MTYwXHR4NjcyMFxwYXJkaXJuYXR1
 					cmFsXHFjXHBhcnRpZ2h0ZW5mYWN0b3IwCgpc
-					ZjBcZnM5MiBcY2YyIEFNTURLIE1vdGhlcmJv
-					YXJkXApEYXRhIENvbm5lY3Rpdml0eX0=
+					ZjBcZnM5MiBcY2YyIEFNTURLIENvbW1vbiBD
+					b21wdXRlIFwKQm9hcmQgQXJjaGl0ZWN0dXJl
+					fQ==
 					</data>
 					<key>className</key>
 					<string>ResizeText</string>
@@ -58,7 +59,7 @@
 					<key>fillType</key>
 					<integer>0</integer>
 					<key>frame</key>
-					<string>{{121, 21}, {445, 110}}</string>
+					<string>{{54, 23}, {583, 110}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
@@ -74,7 +75,7 @@
 					<key>rotationAngle</key>
 					<integer>0</integer>
 					<key>rotationHandleRadius</key>
-					<real>340</real>
+					<real>370</real>
 					<key>scaleImage</key>
 					<true/>
 					<key>stroke1Color</key>
@@ -9256,17 +9257,17 @@
 			<array>
 				<dict>
 					<key>pointerCorner</key>
-					<integer>8</integer>
+					<integer>0</integer>
 					<key>shapeEdge</key>
-					<integer>1</integer>
+					<integer>0</integer>
 					<key>shapeRatio</key>
 					<real>0.5</real>
 				</dict>
 				<dict>
 					<key>pointerCorner</key>
-					<integer>0</integer>
+					<integer>8</integer>
 					<key>shapeEdge</key>
-					<integer>0</integer>
+					<integer>1</integer>
 					<key>shapeRatio</key>
 					<real>0.5</real>
 				</dict>
@@ -9793,7 +9794,7 @@
 			<key>scaleImage</key>
 			<true/>
 			<key>scrollCenterPoint</key>
-			<string>{350, 500}</string>
+			<string>{349.5, 500}</string>
 			<key>stroke1Color</key>
 			<string></string>
 			<key>stroke1Enabled</key>
