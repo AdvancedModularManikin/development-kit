@@ -1279,7 +1279,7 @@
 					MTYwXHR4NjcyMFxwYXJkaXJuYXR1cmFsXHFj
 					XHBhcnRpZ2h0ZW5mYWN0b3IwCgpcZjBcZnMy
 					NCBcY2YyIExpbmVhciBUZWNobm9sb2d5IExU
-					NDI5MSAmIExUNDI5Mn0=
+					NDI5NH0=
 					</data>
 					<key>className</key>
 					<string>Rectangle</string>
@@ -1767,7 +1767,7 @@
 					<key>fillType</key>
 					<integer>0</integer>
 					<key>frame</key>
-					<string>{{260, 390}, {26, 14}}</string>
+					<string>{{270, 400}, {26, 14}}</string>
 					<key>hidden</key>
 					<false/>
 					<key>identifier</key>
