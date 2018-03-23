@@ -1,0 +1,27 @@
+#J-Link gdb server commands
+-select USB
+-device MK66FN2M0xxx18
+-speed 1000
+-if SWD
+-endian little
+-noir
+
+JLinkGDBServer -select USB -device MK66FN2M0xxx18 -speed 1000 -if SWD -endian little -noir
+
+#to connect gdb:
+target remote localhost:2331 (or whatever the reported ip was)
+#to flash
+monitor reset
+monitor halt
+load
+monitor reset
+#to start
+monitor go
+
+#build
+./clean.sh #to clear cmake caches
+export ARMGCC_DIR=~/code/gcc-arm-none-eabi-6-2017-q1-update #fix path
+cmake -DCMAKE_TOOLCHAIN_FILE="armgcc.cmake" -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Debug  .
+
+#create binary file for flashing (note that gdb can flash .elfs directly though)
+~/Downloads/gcc-arm-none-eabi-6-2017-q1-update/bin/arm-none-eabi-objcopy -O binary freertos_hello.elf out.bin

@@ -1,0 +1,151 @@
+Release Name: MCUXpresso Software Development Kit (SDK)
+Release Version: 2.3.0
+
+AwsRemoteControl           Location: boards/<board>/aws_examples/remote_contr
+                           ol_android/AwsRemoteControl.apk                   
+                           Description: AWS Remote Control example Android   
+                           application                                       
+                           License: Apache-2-Clause & BSD                    
+                           Author: Android Open Source Project & NXP         
+                           name: AWS Remote Control                          
+                           version: 1.1                                      
+                           Format: binary                                    
+
+C++ option-parser          version: NA                                       
+                           Location:                                         
+                           middleware/multicore/erpc/erpcgen/src/options.cpp 
+                           Description: C++ option-parser                    
+                           License: Brad Appleton's license                  
+                           Author: Brad Appleton    bradapp@enteract.com     
+                           name: C++ option-parser                           
+                           Format: Plain Text                                
+                           URL: http://www.bradapp.com/ftp/src/libs/C++/Optio
+                           ns.html                                           
+
+CMSIS Core header files    Author: ARM                                       
+                           parentversion: 5.0.1                              
+                           URL: http://silver.arm.com                        
+                           name: CMSIS Core header files                     
+                           Format: source code                               
+                           License: Apache License 2.0, See                  
+                           <rootfolder>/CMSIS/LICENSE.txt                    
+                           Location: CMSIS/Include                           
+                           version: 5.0.1 (CMSIS Download 5.0.1)             
+                           Description: Industry-standard header files       
+                           distributes by ARM for cortex-M cores             
+
+CPP Template               version: NA                                       
+                           Location:                                         
+                           middleware/multicore/erpc/erpcgen/src/cpptemplate 
+                           Description: CPP Template                         
+                           License: Open Source - MIT                        
+                           Author: Ryan Ginstrom & Martinho Fernandes        
+                           name: CPP Template                                
+                           Format: source code                               
+
+DMA Manager                Format: source code                               
+                           Location: middleware/dma_manager                  
+                           Description: A software component used for manage 
+                           on-chip DMA channel resources.                    
+                           name: DMA Manager                                 
+                           License: Open Source - BSD-3-Clause Clear         
+                           version: 2.1.0                                    
+                           Author: Freescale                                 
+
+FatFs                      Approved Open Source License: Yes                 
+                           Author: Electronic Lives Mfg. by ChaN of Ageo     
+                           city, Japan (hobbyist)                            
+                           Description: FatFs is a generic FAT file system   
+                           module for small embedded systems.                
+                           Format: source code                               
+                           License: Open Source - FatFs License,             
+                           <rootfolder>/middleware/fatfs/doc/en/appnote.html 
+                           Location: middleware/fatfs                        
+                           name: FatFs                                       
+                           URL: http://elm-chan.org/fsw/ff/00index_e.html    
+                           version: 0.12c                                    
+
+KSDK Peripheral Driver     Description: Peripheral drivers are designed for  
+                           the most common use cases indentified for         
+                           the underlying hardware block.                    
+                           Author: Freescale                                 
+                           Version: 2.x.x                                    
+                           License: Open Source - BSD-3-Clause Clear         
+                           Format: source code                               
+                           Location: devices/<device_name>/drivers           
+
+MCMGR                      version: 3.0.0                                    
+                           Location: middleware/multicore/mcmgr              
+                           Description: Multicore manager                    
+                           License: Open Source - BSD-3-Clause Clear         
+                           Author: Freescale                                 
+                           name: MCMGR                                       
+                           Format: source code                               
+
+Multicore SDK              version: 2.3.0                                    
+                           Location: middleware/multicore                    
+                           Description: Freescale Multicore Software         
+                           Development Kit.                                  
+                           License: Open Source - BSD-3-Clause Clear         
+                           Author: Freescale                                 
+                           name: Multicore SDK                               
+                           Format: source code                               
+
+SD MMC Card middleware     name: SD MMC Card middleware                      
+                           Location: middleware/sdmmc                        
+                           License: Open Source - BSD-3-Clause Clear         
+                           Description: A software component support SD card,
+                           eMMC card.                                        
+                           Author: Freescale                                 
+                           version: 2.1.2                                    
+                           Format: source code                               
+
+The Bus Pirate             version: NA                                       
+                           Location:                                         
+                           middleware/multicore/erpc/erpc_c/port/serial.h,   
+                           middleware/multicore/erpc/erpc_c/port/serial.cpp  
+                           Description: OS independent serial interface      
+                           License: Open Source - CC0 (Public Domain         
+                           Dedication License)                               
+                           Author: Community                                 
+                           name: The Bus Pirate                              
+                           Format: source code                               
+                           URL: http://code.google.com/p/the-bus-pirate/     
+
+USB                        version: 1.6.3                                    
+                           Location: middleware/usb                          
+                           Description: Freescale USB stack. This is a       
+                           version of the USB stack that has been integrated 
+                           with the MCUXpresso SDK.                          
+                           License: Open Source - BSD-3-Clause Clear         
+                           Author: Freescale                                 
+                           name: USB                                         
+                           Format: source code                               
+
+eRPC                       version: 1.5.0                                    
+                           Location: middleware/multicore/erpc               
+                           Description: Embedded Remote Procedure Call       
+                           License: Open Source - BSD-3-Clause Clear         
+                           Author: Freescale                                 
+                           name: eRPC                                        
+                           Format: source code                               
+                           URL: https://github.com/EmbeddedRPC/erpc          
+
+lwIP TCP/IP Stack          Author: Swedish Institute of Computer Science     
+                           Description: A light-weight TCP/IP stack          
+                           Format: source code                               
+                           License: Open Source - BSD-3-Clause               
+                           Location: middleware/lwip                         
+                           name: lwIP TCP/IP Stack                           
+                           URL: http://savannah.nongnu.org/projects/lwip     
+                           version: 2.0.2                                    
+
+mmCAU S/W Library          Author: Freescale                                 
+                           Description: S/W library that works with the      
+                           memory-mapped cryptographic acceleration unit     
+                           present on some MCUXpresso SoCs                   
+                           Format: source code                               
+                           License: Open Source - BSD-3-Clause Clear         
+                           Location: middleware/mmcau                        
+                           name: mmCAU S/W Library                           
+                           version: 2.0.1                                    
