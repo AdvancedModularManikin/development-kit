@@ -1,4 +1,7 @@
-change all jessie in /etc/apt/sources.list sources to stretch
+Change all `jessie` in `/etc/apt/sources.list` sources to `stretch`
+
+Add `stretch-backports` for openocd 0.10
+
 result:
 ```
 deb http://httpredir.debian.org/debian stretch main
@@ -9,10 +12,8 @@ deb-src http://ftp.debian.org/debian/ stretch main contrib non-free
 deb-src http://ftp.debian.org/debian/ stretch-updates main contrib non-free
 ```
 
-3rd last line is stretch-backports for openocd 0.10
-
 execute:
-sudo dpkg-reconfigure locales
+`sudo dpkg-reconfigure locales`
 select en us utf8 in the gui
 
 execute in tmux:
