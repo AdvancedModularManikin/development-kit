@@ -13,24 +13,31 @@ deb-src http://ftp.debian.org/debian/ stretch-updates main contrib non-free
 ```
 
 execute:
+
     sudo dpkg-reconfigure locales
+
 select `en_US-UTF8` in the gui
 
 execute in tmux:
+
     sudo apt update && sudo apt -y dist-upgrade
 
 Some of the approvals will not be handled by -y so babysit it
 
 Install additional dependencies:
+
     sudo apt install -y libboost-all-dev openjdk-8-jdk openocd gdb-arm-none-eabi
 
 Go to /usr/local: 
+
     cd /usr/local
 
 Unpack physiology engine:
+
     sudo tar xzf physiology.tar.gz
 
 Copy & extract FastRTPS from ~/ on the nuc: 
+
     sudo scp user@10.0.1.20:~/Fast-RTPS.tar.gz . && sudo tar xzf Fast-RTPS.tar.gz
 
 execute:
@@ -43,12 +50,15 @@ cmake -DTHIRDPARTY=ON -DBUILD_JAVA=ON ..
 sudo make && sudo make install
 ```
 Go home:
+
     cd
 
 Get AMM DDS repo:
+
     git clone https://github.com/AdvancedModularManikin/DDS.git
 
 Fix old path:
+
     sed -i 's/~\/workspace/\/usr\/local/g' DDS/AMM_Modules/CMakeLists.txt
 
 execute:
