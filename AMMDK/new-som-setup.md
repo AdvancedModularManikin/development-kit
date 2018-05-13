@@ -26,7 +26,9 @@ Some of the approvals will not be handled by -y so babysit it
 
 Install additional dependencies:
 
-    sudo apt install -y libboost-all-dev openjdk-8-jdk openocd gdb-arm-none-eabi
+    sudo apt install -y libboost-all-dev openjdk-8-jdk gdb-arm-none-eabi
+    
+    sudo apt -t stretch-backports install openocd 
 
 Go to /usr/local: 
 
