@@ -16,6 +16,11 @@ echo "Flashing K66"
 ./flash.sh debug/amm-tiny.elf
 popd
 
+echo "Downloading Biogears"
+scp draum@smf.vcom3d.com:/home/draum/usr_aarch64.tar.bz2 .
+echo "Installing Biogears"
+sudo tar xjf usr_aarch64.tar.bz2 --strip-components=1 -C /usr
+
 echo "Installing Fast-RTPS"
 git clone --branch v1.6.0 https://github.com/eProsima/Fast-RTPS.git
 pushd Fast-RTPS
@@ -26,9 +31,8 @@ sudo make install
 popd
 
 echo "Downloading Application code"
-git clone --branch develop https://github.com/AdvancedModularManikin/DDS.git
-pushd DDS
-mkdir build && pushd build
+git clone --recursive --branch develop https://github.com/AdvancedModularManikin/DDS.git
+mkdir DDS/AMM_Modules/build && pushd DDS/AMM_Modules/build
 cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release ..
 make
 popd
