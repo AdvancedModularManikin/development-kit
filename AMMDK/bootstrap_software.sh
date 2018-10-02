@@ -26,7 +26,7 @@ git clone --branch v1.6.0 https://github.com/eProsima/Fast-RTPS.git
 pushd Fast-RTPS
 mkdir build && pushd build
 cmake -DBUILD_JAVA=ON -DTHIRDPARTY=ON ..
-make
+sudo make # Because Fast-RTPS has a dirty repo
 sudo make install
 popd
 
