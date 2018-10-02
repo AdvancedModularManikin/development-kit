@@ -22,7 +22,7 @@ echo "Installing Biogears"
 sudo tar xjf usr_aarch64.tar.bz2 --strip-components=1 -C /usr
 
 echo "Installing Fast-RTPS"
-git clone --branch v1.6.0 https://github.com/eProsima/Fast-RTPS.git
+git clone https://github.com/eProsima/Fast-RTPS.git
 pushd Fast-RTPS
 mkdir build && pushd build
 cmake -DBUILD_JAVA=ON -DTHIRDPARTY=ON ..
