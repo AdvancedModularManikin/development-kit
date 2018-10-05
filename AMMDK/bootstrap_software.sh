@@ -3,7 +3,7 @@
 
 echo "Installing dependencies"
 sudo apt update -y
-sudo apt install -y openocd cmake default-jdk gradle libboost-all-dev libtinyxml2-dev gcc-arm-none-eabi rapidjson-dev sqlite3 libsqlite3-dev sqlite libsqlite-dev
+sudo apt install -y openocd cmake default-jdk gradle libboost-all-dev libtinyxml2-dev gcc-arm-none-eabi rapidjson-dev doxygen sqlite3 libsqlite3-dev sqlite libsqlite-dev
 
 echo "Downloading K66 code"
 pushd ~/
