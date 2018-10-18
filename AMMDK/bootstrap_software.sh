@@ -23,11 +23,10 @@ popd
 # FIXME: Installing Biogears twice should NOT be necessary
 echo "Downloading Biogears"
 scp draum@smf.vcom3d.com:/home/draum/usr_aarch64.tar.bz2 .
-git clone https://github.com/EntropicEngineering/biogears_aarch64.git
-pushd biogears_aarch64
-echo "Installing Biogears"
-sudo tar xzf biogears.tar.gz -C /opt
+sudo mkdir /opt/biogears
 sudo chown -R linaro:amm /opt/biogears
+pushd /opt/biogears
+git clone https://github.com/BioGearsEngine/core.git
 popd
 sudo tar xjf usr_aarch64.tar.bz2 --strip-components=1 -C /usr
 
