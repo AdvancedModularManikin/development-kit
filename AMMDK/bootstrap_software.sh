@@ -7,8 +7,10 @@ sudo apt update -y
 sudo apt upgrade -y
 sudo apt install -y openocd cmake default-jdk gradle gdb-multiarch tmux libboost-all-dev libtinyxml2-dev gcc-arm-none-eabi rapidjson-dev doxygen sqlite3 libsqlite3-dev sqlite libsqlite-dev man-db
 
-echo "Downloading K66 code"
 pushd ~/
+ln -s development-kit/AMMDK/rename_board.sh .
+
+echo "Downloading K66 code"
 git clone --recursive https://github.com/AdvancedModularManikin/amm-tiny.git
 pushd amm-tiny/
 echo "Building K66 code"
@@ -46,4 +48,5 @@ mkdir DDS/AMM_Modules/build && pushd DDS/AMM_Modules/build
 cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release ..
 make
 popd
+
 popd
