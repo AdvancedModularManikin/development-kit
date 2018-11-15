@@ -47,4 +47,3 @@ cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release ..
 make
 popd
 popd
-popd
