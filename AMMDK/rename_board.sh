@@ -9,7 +9,8 @@ if [[ $# -eq 0 || $1 == -* ]]; then
     echo "Specify desired new name. e.g. AMM-Core, AMM-Torso, or AMM-Fluidics"
 else
     if [ `whoami` != root ]; then
-        echo "Script must be run using sudo."
+        >&2 echo "Script must be run using sudo."
+        exit
     fi
     NEW_HOSTNAME=$1
     sed -i "s/${OLD_HOSTNAME}/${NEW_HOSTNAME}/g" ${HOSTNAME_FILE}
