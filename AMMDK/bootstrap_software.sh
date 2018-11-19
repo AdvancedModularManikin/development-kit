@@ -12,7 +12,7 @@ echo "Installing dependencies"
 sudo apt update -y
 sudo apt update -y
 sudo apt upgrade -y
-sudo apt install -y openocd cmake default-jdk gradle gdb-multiarch tmux libboost-all-dev libtinyxml2-dev gcc-arm-none-eabi rapidjson-dev doxygen sqlite3 libsqlite3-dev sqlite libsqlite-dev man-db
+sudo apt install -y openocd cmake default-jdk gradle gdb-multiarch tmux libboost-all-dev libtinyxml2-dev gcc-arm-none-eabi rapidjson-dev doxygen sqlite3 libsqlite3-dev sqlite libsqlite-dev man-db nginx
 check
 
 pushd ~/
@@ -68,10 +68,25 @@ echo "Downloading Application code"
 git clone --recursive --branch develop https://github.com/AdvancedModularManikin/DDS.git
 check
 mkdir DDS/AMM_Modules/build && pushd DDS/AMM_Modules/build
+echo "Building Applications"
 cmake -G "Unix Makefiles" -DCMAKE_BUILD_TYPE=Release ..
 check
 make
 check
 popd
+
+echo "Installing Web Interface"
+scp draum@smf.vcom3d.com:/home/draum/amm_instructor.tar.bz2 .
+check
+sudo rm /var/www/html/*
+check
+sudo tar jxf amm_instructor.tar.bz2 -C /var/www/html/
+check
+ln -s DDS/AMM_Modules/build/bin/ AMM
+check
+sudo cp DDS/AMM_Modules/support/supervisor_scripts/*.conf /etc/supervisor/conf.d/
+check
+sudo /etc/init.d/supervisor restart
+check
 
 popd
