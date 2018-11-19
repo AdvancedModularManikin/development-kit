@@ -78,7 +78,7 @@ popd
 echo "Installing Web Interface"
 scp draum@smf.vcom3d.com:/home/draum/amm_instructor.tar.bz2 .
 check
-sudo rm /var/www/html/*
+sudo rm -rf /var/www/html/*
 check
 sudo tar jxf amm_instructor.tar.bz2 -C /var/www/html/
 check
