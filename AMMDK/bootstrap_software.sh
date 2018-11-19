@@ -86,7 +86,7 @@ ln -s DDS/AMM_Modules/build/bin/ AMM
 check
 sudo cp DDS/AMM_Modules/support/supervisor_scripts/*.conf /etc/supervisor/conf.d/
 check
-sudo /etc/init.d/supervisor restart
+sudo systemctl restart supervisor
 check
 
 popd
