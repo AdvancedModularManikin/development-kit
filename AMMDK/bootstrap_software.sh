@@ -94,3 +94,4 @@ sudo systemctl restart supervisor
 check
 
 popd
+echo "Setup Completed"
