@@ -103,6 +103,93 @@ init_gpio(struct gpiotest *g)
 #define GPIO_LINE(port, ix) {GPIO ## port , ix , PORT ## port, kCLOCK_Port ## port }
 
 struct gpiotest gpios[] = {
+	/** V2 Board **/
+	/** J4 header **/
+	GPIO_LINE(D, 4), // Pin 8, UART0_RTS_b, SPI1_PCS0
+	GPIO_LINE(D, 5), // Pin 7, UART0_CTS_b / UART0_COL_b, SPI1_SCK, ADC0_SE6b
+	GPIO_LINE(D, 6), // Pin 6, UART0_RX, SPI1_SOUT, ADC0_SE7b
+	GPIO_LINE(D, 7), // Pin 5, UART0_TX, SPI1_SIN
+	GPIO_LINE(A, 10), // Pin 4
+	GPIO_LINE(A, 11), // Pin 3
+	GPIO_LINE(E, 24), // Pin 2, CAN1_TX, UART4_TX, I2C0_SCL
+	GPIO_LINE(E, 12), // Pin 1
+
+	/** J6 header **/
+	GPIO_LINE(A, 7), // Pin 8
+	GPIO_LINE(C, 1), // Pin 7, ADC0_SE15, UART1_RTS_b
+	GPIO_LINE(A, 8), // Pin 6, ADC0_SE11
+	GPIO_LINE(C, 8), // Pin 5, ADC1_SE4b
+	GPIO_LINE(A, 4), // Pin 4
+	GPIO_LINE(A, 17), // Pin 3, ADC1_SE17, UART0_RTS_b
+	GPIO_LINE(D, 11), // Pin 2
+	GPIO_LINE(D, 12), // Pin 1
+
+	/** Pressure Sensors **/
+	/** U3 header **/
+	GPIO_LINE(B, 5), // ADC1_SE11
+	/** U4 header **/
+	GPIO_LINE(B, 6), // ADC1_SE12
+	/** U5 header **/
+	GPIO_LINE(B, 7), // ADC1_SE13
+	/** U6 header **/
+	GPIO_LINE(B, 10), // ADC1_SE14
+	/** U8 header **/
+	GPIO_LINE(E, 25), // ADC0_SE18
+	/** U9 header **/
+	// No GPIO, ADC1_SE18
+	/** U10 header **/
+	// No GPIO, ADC1_DP0, ADC0_DP3
+	/** U11 header **/
+	// No GPIO, ADC0_DM0, ADC1_DM3
+
+	/** J8 header **/
+	GPIO_LINE(C, 11), // Pin 1, I2C1_SDA, ADC1_SE7b
+	GPIO_LINE(C, 10), // Pin 4, I2C1_SCL, ACD1_SE6b
+	GPIO_LINE(C, 9), // Pin 7, ADC1_SE5b / CMP0_IN3
+
+	/** J15 header **/
+	GPIO_LINE(A, 12), // Pin 2, CAN0_TX
+	GPIO_LINE(A, 13), // Pin 3, CAN0_RX
+
+	/** J14 header **/
+	GPIO_LINE(E, 2), // Pin 1, SDHC0_DCLK, ADC1_SE6a
+	GPIO_LINE(E, 1), // Pin 2, DSHC0_D0, ADC1_SE5a
+	GPIO_LINE(E, 3), // Pin 3, SDHC0_CMD, ADC1_SE7a
+	GPIO_LINE(E, 4), // Pin 4, DSHC0_D3
+
+	/** J3 header **/
+	GPIO_LINE(A, 15), // Pin 2
+	GPIO_LINE(A, 14), // Pin 3
+
+	/** J9 header **/
+	GPIO_LINE(B, 18), // Pin 1, CAN0_TX
+	GPIO_LINE(B, 19), // Pin 2, CAN0_RX
+	GPIO_LINE(B, 20), // Pin 3, SPI2_PCS0
+	GPIO_LINE(B, 21), // Pin 4, SPI2_SCK
+	GPIO_LINE(B, 22), // Pin 5, SPI2_SOUT
+	GPIO_LINE(B, 23), // Pin 6, SPI2_SIN
+	GPIO_LINE(C, 0), // Pin 7, ADC0_SE14
+
+	/** J22 header **/
+	GPIO_LINE(B, 11), // Pin 2, ADC1_SE15
+	// No GPIO on Pin 3, ADC1_SE16, ADC0_SE22
+
+	/** J20 header **/
+	/***** Power ****/
+
+	/** J10 header **/
+	/*** To motor ***/
+
+	/** U7 header **/
+	GPIO_LINE(B, 1), // Pin 22
+	GPIO_LINE(B, 0), // Pin 21
+	GPIO_LINE(B, 2), // Pin 20
+	GPIO_LINE(B, 3), // Pin 19
+	// No GPIO, ADC1_SE23
+	GPIO_LINE(B, 4), // Pin 25
+
+    // V1
+    /*
 	//+++ J16 header +++
 	GPIO_LINE(D, 6), // 1
 	//GND 2
@@ -186,6 +273,7 @@ struct gpiotest gpios[] = {
 	GPIO_LINE(E, 28), //PTE28			
 	//GND 39			
 	GPIO_LINE(A, 4), // PA3 40 TODO is this PTA3 or PA3? no PA3 in datasheet
+    */
 };
 
 #define GPIO_NUM (sizeof(gpios)/sizeof(gpios[0]))
