@@ -1,0 +1,35 @@
+#cmake stuff
+CMakeCache.txt
+CMakeFiles
+CMakeScripts
+Testing
+Makefile
+cmake_install.cmake
+install_manifest.txt
+compile_commands.json
+CTestTestfile.cmake
+
+compiler-file.d
+Project.cbp
+
+#build products
+Debug
+debug
+
+#IDEs
+.idea
+.project
+.settings
+
+# Sensitive or high-churn files:
+.idea/**/dataSources/
+.idea/**/dataSources.ids
+.idea/**/dataSources.xml
+.idea/**/dataSources.local.xml
+.idea/**/sqlDataSources.xml
+.idea/**/dynamic.xml
+.idea/**/uiDesigner.xml
+
+#ctags
+source/tmtags*
+tags

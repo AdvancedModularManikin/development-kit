@@ -1,0 +1,3 @@
+[submodule "AMMDK/ammdk_tester/k66f-reqs"]
+	path = AMMDK/ammdk_tester/k66f-reqs
+	url = https://github.com/EntropicEngineering/k66f-reqs.git
