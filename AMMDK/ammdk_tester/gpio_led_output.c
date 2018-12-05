@@ -64,7 +64,7 @@ void delay(void);
 void delay(void)
 {
     volatile uint32_t i = 0;
-    for (i = 0; i < 800000; ++i)
+    for (i = 0; i < 4000000; ++i) // ~ 1 Hz
     {
         __asm("NOP"); /* delay */
     }
