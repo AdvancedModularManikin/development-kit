@@ -9,10 +9,11 @@ check()
 }
 
 echo "Installing dependencies"
+sudo apt-mark hold firmware-atheros
 sudo apt update -y
 sudo apt update -y
 sudo apt upgrade -y
-sudo apt install -y openocd cmake gdb-multiarch tmux gcc-arm-none-eabi man-db
+sudo apt install -y openocd cmake default-jdk xrdp tigervnc-standalone-server gradle gdb-multiarch tmux libboost-all-dev libtinyxml2-dev gcc-arm-none-eabi rapidjson-dev doxygen sqlite3 libsqlite3-dev sqlite libsqlite-dev man-db nginx supervisor
 check
 
 echo "Downloading K66 code"
