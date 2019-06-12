@@ -9,7 +9,7 @@ check()
 }
 
 echo "Installing dependencies"
-sudo apt-mark hold firmware-atheros
+sudo apt-mark hold firmware-atheros lqxt* liblxqt*
 sudo apt update -y
 sudo apt update -y
 sudo apt upgrade -y
