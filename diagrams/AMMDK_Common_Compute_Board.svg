@@ -1,0 +1,1794 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+    "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg width="100%" height="100%" viewBox="0 0 700 1000"
+    version="1.1" xmlns="http://www.w3.org/2000/svg">
+    <g transform="scale(1, 1)">
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M85.00 24.00
+                    L607.00 24.00
+                    L607.00 189.00
+                    L85.00 189.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="260.39" y="67.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:46px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">AMMDK
+                </tspan>
+            </text>
+            <text x="85.22" y="122.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:46px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Common Compute Board
+                </tspan>
+            </text>
+            <text x="223.28" y="177.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:46px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Architecture</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="30.00" y="210.00" width="640.00" height="550.00"
+                fill="rgb(0, 128, 128)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="240.00" y="230.00" width="200.00" height="80.00"
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="274.61" y="263.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Snapdragon </tspan>
+            </text>
+            <text x="311.97" y="292.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">820E</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="20.00" y="240.00" width="60.00" height="40.00"
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(127, 127, 127)"
+                stroke-width="1.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+            
+            <text x="37.66" y="256.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">USB </tspan>
+            </text>
+            <text x="29.67" y="270.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Micro B</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M80.00 260.00
+                    L130.00 260.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M190.00 260.00
+                    L240.00 260.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="130.00" y="230.00" width="60.00" height="60.00"
+                fill="rgb(0, 0, 128)"
+                />
+            
+            
+            <text x="147.66" y="249.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">USB </tspan>
+            </text>
+            <text x="149.55" y="263.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">TTL </tspan>
+            </text>
+            <text x="143.77" y="277.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">UART</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M280.00 310.00
+                    C280.00 310.00 280.00 310.00 280.00 310.00
+                    C280.00 310.00 280.00 310.00 280.00 310.00
+                    C280.00 310.00 280.00 410.00 280.00 410.00
+                    C280.00 410.00 280.00 410.00 280.00 410.00
+                    C280.00 410.00 90.00 410.00 90.00 410.00
+                    C90.00 410.00 90.00 410.00 90.00 410.00
+                    C90.00 410.00 90.00 410.00 90.00 410.00
+                    C90.00 410.00 90.00 410.00 90.00 410.00
+                    C90.00 410.00 90.00 410.00 90.00 410.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="20.00" y="380.00" width="70.00" height="60.00"
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(127, 127, 127)"
+                stroke-width="1.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+            
+            <text x="39.26" y="399.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12.32px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">HDMI </tspan>
+            </text>
+            <text x="37.54" y="413.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12.32px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">type A </tspan>
+            </text>
+            <text x="26.58" y="427.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12.32px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">receptacle</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M310.00 310.00
+                    C310.00 310.00 310.00 310.00 310.00 310.00
+                    C310.00 310.00 310.00 310.00 310.00 310.00
+                    C310.00 310.00 310.00 480.00 310.00 480.00
+                    C310.00 480.00 310.00 480.00 310.00 480.00
+                    C310.00 480.00 250.00 480.00 250.00 480.00
+                    C250.00 480.00 250.00 480.00 250.00 480.00
+                    C250.00 480.00 250.00 480.00 250.00 480.00
+                    C250.00 480.00 250.00 480.00 250.00 480.00
+                    C250.00 480.00 250.00 480.00 250.00 480.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="20.00" y="460.00" width="60.00" height="40.00"
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(127, 127, 127)"
+                stroke-width="1.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+            
+            <text x="27.32" y="476.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Ethernet </tspan>
+            </text>
+            <text x="37.66" y="490.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Jack</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="100.00" y="440.00" width="80.00" height="80.00"
+                fill="rgb(0, 0, 128)"
+                />
+            
+            
+            <text x="123.32" y="469.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Linear </tspan>
+            </text>
+            <text x="109.65" y="483.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Technology </tspan>
+            </text>
+            <text x="120.09" y="497.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">LT4294</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M200.00 240.00
+                    L230.00 240.00
+                    L230.00 253.00
+                    L200.00 253.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="200.12" y="249.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:11px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">UART</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M80.00 480.00
+                    L100.00 480.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M230.00 390.00
+                    L261.00 390.00
+                    L261.00 404.00
+                    L230.00 404.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="230.17" y="400.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">HDMI</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M270.00 460.00
+                    L296.00 460.00
+                    L296.00 474.00
+                    L270.00 474.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="271.08" y="470.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:11px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">PCIx</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="620.00" y="440.00" width="60.00" height="40.00"
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(127, 127, 127)"
+                stroke-width="1.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+            
+            <text x="632.32" y="463.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">USB A</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="180.00" y="580.00" width="140.00" height="80.00"
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="194.65" y="606.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Cortex M4</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M206.00 631.00
+                    L280.00 631.00
+                    L280.00 653.00
+                    L206.00 653.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="206.14" y="648.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">NXP K66</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M290.00 500.00
+                    L311.00 500.00
+                    L311.00 516.00
+                    L290.00 516.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="290.02" y="512.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:13px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">SPI</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M340.00 310.00
+                    C340.00 310.00 340.00 310.00 340.00 310.00
+                    C340.00 310.00 340.00 310.00 340.00 310.00
+                    C340.00 310.00 340.00 522.00 340.00 522.00
+                    C340.00 522.00 340.00 522.00 340.00 522.00
+                    C340.00 522.00 250.00 522.00 250.00 522.00
+                    C250.00 522.00 250.00 522.00 250.00 522.00
+                    C250.00 522.00 250.00 580.00 250.00 580.00
+                    C250.00 580.00 250.00 580.00 250.00 580.00
+                    C250.00 580.00 250.00 580.00 250.00 580.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="430.00" y="580.00" width="140.00" height="80.00"
+                fill="rgb(34, 6, 159)"
+                />
+            
+            
+            <text x="444.65" y="606.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Cortex M4</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M466.00 621.00
+                    L540.00 621.00
+                    L540.00 643.00
+                    L466.00 643.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="466.14" y="638.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">NXP K20</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M320.00 610.00
+                    L430.00 610.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M320.00 590.00
+                    L424.00 590.00
+                    L424.00 604.00
+                    L320.00 604.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="324.22" y="600.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:11px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">UART / SWD / RST</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="450.00" y="440.00" width="80.00" height="80.00"
+                fill="rgb(0, 0, 128)"
+                />
+            
+            
+            <text x="477.66" y="469.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">USB
+                </tspan>
+            </text>
+            <text x="478.99" y="483.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Hub
+                </tspan>
+            </text>
+            <text x="477.66" y="497.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">(3.1)</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M480.00 520.00
+                    C480.00 520.00 480.00 520.00 480.00 520.00
+                    C480.00 520.00 480.00 520.00 480.00 520.00
+                    C480.00 520.00 480.00 551.00 480.00 551.00
+                    C480.00 551.00 480.00 551.00 480.00 551.00
+                    C480.00 551.00 300.00 551.00 300.00 551.00
+                    C300.00 551.00 300.00 551.00 300.00 551.00
+                    C300.00 551.00 300.00 580.00 300.00 580.00
+                    C300.00 580.00 300.00 580.00 300.00 580.00
+                    C300.00 580.00 300.00 580.00 300.00 580.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M500.00 520.00
+                    C500.00 520.00 500.00 520.00 500.00 520.00
+                    C500.00 520.00 500.00 520.00 500.00 520.00
+                    C500.00 520.00 500.00 555.00 500.00 555.00
+                    C500.00 555.00 500.00 555.00 500.00 555.00
+                    C500.00 555.00 500.00 555.00 500.00 555.00
+                    C500.00 555.00 500.00 555.00 500.00 555.00
+                    C500.00 555.00 500.00 580.00 500.00 580.00
+                    C500.00 580.00 500.00 580.00 500.00 580.00
+                    C500.00 580.00 500.00 580.00 500.00 580.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M370.00 310.00
+                    C370.00 310.00 370.00 310.00 370.00 310.00
+                    C370.00 310.00 370.00 310.00 370.00 310.00
+                    C370.00 310.00 370.00 480.00 370.00 480.00
+                    C370.00 480.00 370.00 480.00 370.00 480.00
+                    C370.00 480.00 450.00 480.00 450.00 480.00
+                    C450.00 480.00 450.00 480.00 450.00 480.00
+                    C450.00 480.00 450.00 480.00 450.00 480.00
+                    C450.00 480.00 450.00 480.00 450.00 480.00
+                    C450.00 480.00 450.00 480.00 450.00 480.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M530.00 460.00
+                    L620.00 460.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="350.00" y="630.00" width="50.00" height="20.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="360.11" y="643.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">JTAG</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M400.00 640.00
+                    L430.00 640.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M450.00 640.00
+                    L560.00 640.00
+                    L560.00 660.00
+                    L450.00 660.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="453.97" y="653.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Running OpenSDA</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="410.00" y="730.00" width="100.00" height="30.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="421.43" y="748.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">UART/SPI/I2C</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="340.00" y="730.00" width="60.00" height="30.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="355.00" y="748.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">GPIO</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="260.00" y="730.00" width="70.00" height="30.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="280.34" y="748.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">PWM</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="120.00" y="730.00" width="60.00" height="30.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="137.33" y="748.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">ADC</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="520.00" y="730.00" width="60.00" height="30.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="537.33" y="748.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">CAN</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="190.00" y="730.00" width="60.00" height="30.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="207.33" y="748.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">DAC</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M380.00 530.00
+                    L432.00 530.00
+                    L432.00 547.00
+                    L380.00 547.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="381.79" y="543.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:13px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">USB 2.0</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M380.00 460.00
+                    L410.00 460.00
+                    L410.00 470.00
+                    L380.00 470.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="380.61" y="470.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">USB</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M280.00 660.00
+                    C280.00 660.00 280.00 660.00 280.00 660.00
+                    C280.00 660.00 280.00 660.00 280.00 660.00
+                    C280.00 660.00 280.00 690.00 280.00 690.00
+                    C280.00 690.00 280.00 690.00 280.00 690.00
+                    C280.00 690.00 460.00 690.00 460.00 690.00
+                    C460.00 690.00 460.00 690.00 460.00 690.00
+                    C460.00 690.00 460.00 730.00 460.00 730.00
+                    C460.00 730.00 460.00 730.00 460.00 730.00
+                    C460.00 730.00 460.00 730.00 460.00 730.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M260.00 660.00
+                    C260.00 660.00 260.00 660.00 260.00 660.00
+                    C260.00 660.00 260.00 660.00 260.00 660.00
+                    C260.00 660.00 260.00 704.00 260.00 704.00
+                    C260.00 704.00 260.00 704.00 260.00 704.00
+                    C260.00 704.00 370.00 704.00 370.00 704.00
+                    C370.00 704.00 370.00 704.00 370.00 704.00
+                    C370.00 704.00 370.00 730.00 370.00 730.00
+                    C370.00 730.00 370.00 730.00 370.00 730.00
+                    C370.00 730.00 370.00 730.00 370.00 730.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M240.00 660.00
+                    C240.00 660.00 240.00 660.00 240.00 660.00
+                    C240.00 660.00 240.00 660.00 240.00 660.00
+                    C240.00 660.00 240.00 718.00 240.00 718.00
+                    C240.00 718.00 240.00 718.00 240.00 718.00
+                    C240.00 718.00 290.00 718.00 290.00 718.00
+                    C290.00 718.00 290.00 718.00 290.00 718.00
+                    C290.00 718.00 290.00 730.00 290.00 730.00
+                    C290.00 730.00 290.00 730.00 290.00 730.00
+                    C290.00 730.00 290.00 730.00 290.00 730.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M220.00 660.00
+                    C220.00 660.00 220.00 660.00 220.00 660.00
+                    C220.00 660.00 220.00 660.00 220.00 660.00
+                    C220.00 660.00 220.00 699.00 220.00 699.00
+                    C220.00 699.00 220.00 699.00 220.00 699.00
+                    C220.00 699.00 220.00 699.00 220.00 699.00
+                    C220.00 699.00 220.00 699.00 220.00 699.00
+                    C220.00 699.00 220.00 730.00 220.00 730.00
+                    C220.00 730.00 220.00 730.00 220.00 730.00
+                    C220.00 730.00 220.00 730.00 220.00 730.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M300.00 660.00
+                    C300.00 660.00 300.00 660.00 300.00 660.00
+                    C300.00 660.00 300.00 660.00 300.00 660.00
+                    C300.00 660.00 300.00 673.00 300.00 673.00
+                    C300.00 673.00 300.00 673.00 300.00 673.00
+                    C300.00 673.00 550.00 673.00 550.00 673.00
+                    C550.00 673.00 550.00 673.00 550.00 673.00
+                    C550.00 673.00 550.00 730.00 550.00 730.00
+                    C550.00 730.00 550.00 730.00 550.00 730.00
+                    C550.00 730.00 550.00 730.00 550.00 730.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M200.00 660.00
+                    C200.00 660.00 200.00 660.00 200.00 660.00
+                    C200.00 660.00 200.00 660.00 200.00 660.00
+                    C200.00 660.00 200.00 674.00 200.00 674.00
+                    C200.00 674.00 200.00 674.00 200.00 674.00
+                    C200.00 674.00 150.00 674.00 150.00 674.00
+                    C150.00 674.00 150.00 674.00 150.00 674.00
+                    C150.00 674.00 150.00 730.00 150.00 730.00
+                    C150.00 730.00 150.00 730.00 150.00 730.00
+                    C150.00 730.00 150.00 730.00 150.00 730.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle copy *************** -->
+        
+        <g>
+            <rect x="30.00" y="810.00" width="640.00" height="160.00"
+                fill="rgb(0, 128, 128)"
+                />
+            
+            
+            <text x="140.88" y="903.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:36px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Application Specific Board</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="130.00" y="920.00" width="80.00" height="40.00"
+                fill="rgb(0, 0, 128)"
+                />
+            
+            
+            <text x="154.66" y="936.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Motor </tspan>
+            </text>
+            <text x="140.99" y="950.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Controllers</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="240.00" y="920.00" width="100.00" height="40.00"
+                fill="rgb(0, 0, 128)"
+                />
+            
+            
+            <text x="252.97" y="936.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Analog Singal </tspan>
+            </text>
+            <text x="256.64" y="950.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Conditioning</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="370.00" y="920.00" width="90.00" height="40.00"
+                fill="rgb(0, 0, 128)"
+                />
+            
+            
+            <text x="395.33" y="943.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Muxers</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="490.00" y="920.00" width="80.00" height="40.00"
+                fill="rgb(0, 0, 128)"
+                />
+            
+            
+            <text x="519.66" y="943.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Etc.</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="20.00" y="310.00" width="60.00" height="40.00"
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="rgb(127, 127, 127)"
+                stroke-width="1.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(0, 0, 0)"
+                />
+            
+            
+            <text x="37.66" y="326.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">USB </tspan>
+            </text>
+            <text x="29.67" y="340.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Micro B</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M250.00 310.00
+                    C250.00 310.00 250.00 310.00 250.00 310.00
+                    C250.00 310.00 250.00 310.00 250.00 310.00
+                    C250.00 310.00 250.00 330.00 250.00 330.00
+                    C250.00 330.00 250.00 330.00 250.00 330.00
+                    C250.00 330.00 80.00 330.00 80.00 330.00
+                    C80.00 330.00 80.00 330.00 80.00 330.00
+                    C80.00 330.00 80.00 330.00 80.00 330.00
+                    C80.00 330.00 80.00 330.00 80.00 330.00
+                    C80.00 330.00 80.00 330.00 80.00 330.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M200.00 310.00
+                    L230.00 310.00
+                    L230.00 320.00
+                    L200.00 320.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="200.61" y="320.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">USB</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M90.00 230.00
+                    L122.00 230.00
+                    L122.00 256.00
+                    L90.00 256.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="91.27" y="240.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:10px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Debug
+                </tspan>
+            </text>
+            <text x="96.83" y="252.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:10px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Port</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M90.00 340.00
+                    L156.00 340.00
+                    L156.00 353.00
+                    L90.00 353.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="92.99" y="350.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:10px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Fastboot Port</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M430.00 310.00
+                    C430.00 310.00 430.00 310.00 430.00 310.00
+                    C430.00 310.00 430.00 310.00 430.00 310.00
+                    C430.00 310.00 430.00 330.00 430.00 330.00
+                    C430.00 330.00 430.00 330.00 430.00 330.00
+                    C430.00 330.00 540.00 330.00 540.00 330.00
+                    C540.00 330.00 540.00 330.00 540.00 330.00
+                    C540.00 330.00 540.00 330.00 540.00 330.00
+                    C540.00 330.00 540.00 330.00 540.00 330.00
+                    C540.00 330.00 540.00 330.00 540.00 330.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="540.00" y="300.00" width="80.00" height="60.00"
+                fill="rgb(0, 0, 128)"
+                />
+            
+            
+            <text x="547.31" y="326.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">BluetoothLE
+                </tspan>
+            </text>
+            <text x="557.65" y="340.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Antenna</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M400.00 310.00
+                    C400.00 310.00 400.00 310.00 400.00 310.00
+                    C400.00 310.00 400.00 310.00 400.00 310.00
+                    C400.00 310.00 400.00 410.00 400.00 410.00
+                    C400.00 410.00 400.00 410.00 400.00 410.00
+                    C400.00 410.00 550.00 410.00 550.00 410.00
+                    C550.00 410.00 550.00 410.00 550.00 410.00
+                    C550.00 410.00 550.00 410.00 550.00 410.00
+                    C550.00 410.00 550.00 410.00 550.00 410.00
+                    C550.00 410.00 550.00 410.00 550.00 410.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="550.00" y="380.00" width="60.00" height="60.00"
+                fill="rgb(0, 0, 128)"
+                />
+            
+            
+            <text x="566.01" y="406.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Wi-Fi
+                </tspan>
+            </text>
+            <text x="557.65" y="420.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Antenna</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M449.00 307.00
+                    L482.00 307.00
+                    L482.00 324.00
+                    L449.00 324.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="449.16" y="320.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:14px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Coax</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M410.00 390.00
+                    L440.00 390.00
+                    L440.00 410.00
+                    L410.00 410.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="410.99" y="403.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Coax</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="50.00" y="830.00" width="600.00" height="30.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="296.64" y="848.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">IO Breakout Header</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M370.00 810.00
+                    L370.00 830.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M290.00 810.00
+                    L290.00 830.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M220.00 810.00
+                    L220.00 830.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M150.00 810.00
+                    L150.00 830.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M460.00 810.00
+                    L460.00 830.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M550.00 810.00
+                    L550.00 830.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Text *************** -->
+        
+        <g>
+            <path
+                d="
+                    M510.00 550.00
+                    L560.00 550.00
+                    L560.00 560.00
+                    L510.00 560.00
+                    Z
+                    "
+                fill="none"
+                />
+            
+            
+            <text x="510.79" y="559.00"
+            >
+                <tspan style="font-family:Helvetica; font-size:13px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">USB 2.0</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M530.00 500.00
+                    C530.00 500.00 530.00 500.00 530.00 500.00
+                    C530.00 500.00 530.00 500.00 530.00 500.00
+                    C530.00 500.00 530.00 500.00 530.00 500.00
+                    C530.00 500.00 530.00 500.00 530.00 500.00
+                    C530.00 500.00 620.00 500.00 620.00 500.00
+                    C620.00 500.00 620.00 500.00 620.00 500.00
+                    C620.00 500.00 620.00 730.00 620.00 730.00
+                    C620.00 730.00 620.00 730.00 620.00 730.00
+                    C620.00 730.00 620.00 730.00 620.00 730.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="590.00" y="730.00" width="60.00" height="30.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="607.66" y="748.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">USB</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M620.00 810.00
+                    L620.00 830.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="190.00" y="450.00" width="60.00" height="60.00"
+                fill="rgb(0, 0, 128)"
+                />
+            
+            
+            <text x="207.00" y="476.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">PCIx </tspan>
+            </text>
+            <text x="202.33" y="490.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">Switch</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M180.00 480.00
+                    L190.00 480.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Segmented Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M220.00 510.00
+                    C220.00 510.00 220.00 510.00 220.00 510.00
+                    C220.00 510.00 220.00 510.00 220.00 510.00
+                    C220.00 510.00 220.00 551.00 220.00 551.00
+                    C220.00 551.00 220.00 551.00 220.00 551.00
+                    C220.00 551.00 80.00 551.00 80.00 551.00
+                    C80.00 551.00 80.00 551.00 80.00 551.00
+                    C80.00 551.00 80.00 730.00 80.00 730.00
+                    C80.00 730.00 80.00 730.00 80.00 730.00
+                    C80.00 730.00 80.00 730.00 80.00 730.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="50.00" y="730.00" width="60.00" height="30.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="67.00" y="748.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">PCIx</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M80.00 810.00
+                    L80.00 830.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+        
+        <!-- ** Rectangle *************** -->
+        
+        <g>
+            <rect x="110.00" y="610.00" width="50.00" height="20.00"
+                fill="rgb(127, 127, 127)"
+                />
+            
+            
+            <text x="120.11" y="623.50"
+            >
+                <tspan style="font-family:Helvetica; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">JTAG</tspan>
+            </text>
+        </g>
+        
+        
+        <!-- ** Line *************** -->
+        
+        <g>
+            <path
+                d="
+                    M160.00 620.00
+                    L180.00 620.00
+                    "
+                transform="
+                    translate(0.5 0.5)
+                    "
+                fill="none"
+                stroke-width="10.00"
+                stroke-linecap="butt"
+                stroke-linejoin="round"
+                stroke="rgb(204, 143, 50)"
+                />
+            
+        </g>
+        
+    </g>
+</svg>
+
