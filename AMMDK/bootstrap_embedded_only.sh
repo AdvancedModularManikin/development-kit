@@ -13,7 +13,7 @@ sudo apt-mark hold firmware-atheros lqxt* liblxqt*
 sudo apt update -y
 sudo apt update -y
 sudo apt upgrade -y
-sudo apt install -y openocd cmake gdb-multiarch tmux
+sudo apt install -y openocd cmake gdb-multiarch tmux gcc-arm-none-eabi
 check
 
 echo "Downloading K66 code"
