@@ -13,7 +13,7 @@ sudo apt-mark hold firmware-atheros lqxt* liblxqt*
 sudo apt update -y
 sudo apt update -y
 sudo apt upgrade -y
-sudo apt install -y openocd cmake default-jdk xrdp tigervnc-standalone-server gradle gdb-multiarch tmux libboost-all-dev libtinyxml2-dev gcc-arm-none-eabi rapidjson-dev doxygen sqlite3 libsqlite3-dev sqlite libsqlite-dev man-db nginx supervisor
+sudo apt install -y openocd cmake gdb-multiarch tmux
 check
 
 echo "Downloading K66 code"
