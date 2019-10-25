@@ -1,9 +1,9 @@
 <?xml version="1.0" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
     "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg width="100%" height="100%" viewBox="0 0 480 350"
+<svg width="100%" height="100%" viewBox="0 0 960 700"
     version="1.1" xmlns="http://www.w3.org/2000/svg">
-    <g transform="scale(0.5, 0.5)">
+    <g transform="scale(1, 1)">
         
         <!-- ** Rounded Rectangle *************** -->
         
@@ -313,26 +313,14 @@
                 />
             
             
-            <text x="833.17" y="301.61"
-            >
-                <tspan style="font-family:ArialMT; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">
-                </tspan>
-            </text>
-            <text x="829.84" y="301.61"
-            >
-                <tspan style="font-family:ArialMT; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">:</tspan>
-            </text>
             <text x="777.83" y="301.61"
             >
-                <tspan style="font-family:ArialMT; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">K20 MCU</tspan>
-            </text>
-            <text x="824.84" y="316.00"
-            >
-                <tspan style="font-family:ArialMT; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">D</tspan>
+                <tspan style="font-family:ArialMT; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">K20 MCU:
+                </tspan>
             </text>
             <text x="777.49" y="316.00"
             >
-                <tspan style="font-family:ArialMT; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">OpenOC</tspan>
+                <tspan style="font-family:ArialMT; font-size:12px; font-style:normal; font-weight:normal;" fill="rgb(255, 255, 255)">OpenOCD</tspan>
             </text>
         </g>
         
@@ -748,9 +736,9 @@
                 />
             
             
-            <text x="193.81" y="79.00"
+            <text x="205.16" y="79.00"
             >
-                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">AMMDK Linux</tspan>
+                <tspan style="font-family:Helvetica; font-size:24px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">AMMDK OS</tspan>
             </text>
         </g>
         
@@ -810,14 +798,14 @@
                 />
             
             
-            <text x="67.90" y="163.50"
+            <text x="88.41" y="163.50"
             >
-                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Configures AMMDK library for needed data access
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Configures AMM standard library data access
                 </tspan>
             </text>
-            <text x="80.76" y="185.50"
+            <text x="76.26" y="185.50"
             >
-                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Transmits and receives data via AMMDK library
+                <tspan style="font-family:Helvetica; font-size:18px; font-style:normal; font-weight:normal;" fill="rgb(0, 0, 0)">Transmits and receives data via AMM std. library
                 </tspan>
             </text>
             <text x="149.93" y="207.50"
