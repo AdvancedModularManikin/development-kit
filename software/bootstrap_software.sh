@@ -19,7 +19,7 @@ sudo apt install -y openocd cmake default-jdk xrdp tigervnc-standalone-server gr
 check
 
 pushd ~/
-ln -s development-kit/AMMDK/rename_board.sh .
+ln -s development-kit/software/rename_board.sh .
 
 echo "Downloading K66 code"
 git clone --recursive https://github.com/AdvancedModularManikin/amm-tiny.git

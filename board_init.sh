@@ -14,5 +14,5 @@ if [ $USER != 'amm' ]; then
 fi
 git clone https://github.com/AdvancedModularManikin/development-kit.git
 check
-./development-kit/AMMDK/bootstrap_software.sh
+./development-kit/software/bootstrap_software.sh
 
